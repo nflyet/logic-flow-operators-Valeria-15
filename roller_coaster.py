@@ -32,7 +32,7 @@ if height >60:
         bill=str(bill)
         print("Your final bill is $"+bill+".")
 else:
-    print("You cannot ride.")
+    print("You cannot ride.2")
 # Step 4: Ask the user if they want a photo.
 
 # Step 5: Tell them what their final bill is.
